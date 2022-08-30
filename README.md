@@ -1,5 +1,7 @@
 ## Hull
 A simple theme.
+![screenshot](https://user-images.githubusercontent.com/67550680/187490403-fd6b1742-f216-4964-a13a-3298e5614ec0.png)
+
 
 #### Characteristics
 * Indicates super user by changing the default prompt (λ) to (Λ)
